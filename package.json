@@ -1,17 +1,25 @@
 {
-  "name": "exemple_node_docker",
+  "name": "estefania",
   "version": "1.0.0",
-  "description": "",
+  "description": "examen final",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "node --watch src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Estefania Manjon",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
     "morgan": "^1.10.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EManjonG/ExamenFinal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EManjonG/ExamenFinal/issues"
+  },
+  "homepage": "https://github.com/EManjonG/ExamenFinal#readme"
 }
